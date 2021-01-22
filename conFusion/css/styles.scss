@@ -57,6 +57,10 @@ body {
 .carousel {
     background: $background-dark;
     
+    .carousel-caption {
+        bottom: 60px;
+    }
+
     .carousel-item {
         height: $carousel-item-height;
 
